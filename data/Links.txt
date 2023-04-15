@@ -1,2 +1,2 @@
-https://opendata.swiss/de/dataset/gebaudeinformation/resource/c79b88b3-65f6-43fc-af1f-c674508e1bda
+https://www.housing-stat.ch/de/madd/public.html#daten_herunterladen
 https://opendata.swiss/de/dataset/eignung-von-hausdachern-fur-die-nutzung-von-sonnenenergie
